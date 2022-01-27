@@ -25,3 +25,6 @@ o nome do jogador, será mostrada a pontução do jogador em questão
 
 No caso de uma partida acirrada demais, é possível empatar, não dando pontuação para nenhum
 dos jogadores
+
+
+Obs: O código está todo comentado para mais detalhes :)
