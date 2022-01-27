@@ -26,5 +26,18 @@ o nome do jogador, será mostrada a pontução do jogador em questão
 No caso de uma partida acirrada demais, é possível empatar, não dando pontuação para nenhum
 dos jogadores
 
+Algumas prints
+
+![image](https://user-images.githubusercontent.com/98496580/151396633-25c1d558-0e24-4d06-bd33-951a90e14e64.png)
+
+![image](https://user-images.githubusercontent.com/98496580/151396954-3d6a6f11-0e2a-4085-99c2-6d780cd9bcde.png)
+
+![image](https://user-images.githubusercontent.com/98496580/151397040-052fc570-1daf-4b54-87b2-5debb51bdae6.png)
+
+![image](https://user-images.githubusercontent.com/98496580/151397082-5f95a2e5-3e50-43b7-aa9a-92fa82a5e18b.png)
+
+![image](https://user-images.githubusercontent.com/98496580/151396998-bd504973-31c2-4c8d-9010-2c04655d2040.png)
+
 
 Obs: O código está todo comentado para mais detalhes :)
+entregue originalmente em 11/05/2021
